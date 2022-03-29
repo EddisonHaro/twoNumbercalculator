@@ -8,5 +8,5 @@ This calculator can do the calculus of two numbers:
 -Multiplication
 -Division
 
-This was made using Javascript, Html and Css
+This was made using Javascript, Html and Css.
 

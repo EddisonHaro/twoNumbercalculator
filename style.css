@@ -1,0 +1,21 @@
+.mainscreen{
+
+    background-color: darksalmon;
+}
+
+h1{
+
+    color:brown;
+    text-align: center;
+}
+
+p{
+
+    font-size: 50px;
+    text-align: center;
+    color:darkred;
+    background-color:lightseagreen;
+    
+   padding-top: 10%;
+   padding-bottom: 10%;
+}
